@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+
+
+# My custom rules
+examples/out.csv
+
+*.ipynb_checkpoints*
